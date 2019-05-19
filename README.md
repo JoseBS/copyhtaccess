@@ -10,6 +10,7 @@ Simply windows batch to auto copy .htaccess file to anywhere in directory's tree
 3# Execute copyhtaccess.bat and enjoy the automatitation
 
 #Example execution
+
 Clone the repository and just double-click the copyhtaccess.bat
 
 Created By Mitor/JoseBS
